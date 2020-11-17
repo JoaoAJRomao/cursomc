@@ -60,5 +60,8 @@ local.properties
 .classpath
 .target/
 target/
+target/*
+
+*.class
 
 # End of https://www.gitignore.io/api/Eclipse
