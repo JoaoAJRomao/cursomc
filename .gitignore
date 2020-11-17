@@ -63,5 +63,6 @@ target/
 target/*
 
 *.class
+.class
 
 # End of https://www.gitignore.io/api/Eclipse
