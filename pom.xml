@@ -16,7 +16,7 @@
 	<description>Projeto do Nelio</description>
 
 	<properties>
-		<java.version>11</java.version>
+		<version>11</version>
 	</properties>
 
 	<dependencies>
